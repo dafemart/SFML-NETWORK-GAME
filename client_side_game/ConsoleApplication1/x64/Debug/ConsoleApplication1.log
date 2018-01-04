@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  utility.cpp
+  player.cpp
+c:\users\daniel\source\repos\consoleapplication1\consoleapplication1\player.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.cpp
+c:\users\daniel\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\Daniel\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Daniel\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Partial PDB)

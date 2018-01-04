@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ConsoleApplication1.cpp(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ConsoleApplication1.cpp(88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ConsoleApplication1.cpp(173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication1.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  9 of 286 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Daniel\Documents\CMPS109\personal_game\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Daniel\Documents\CMPS109\personal_game\ConsoleApplication1\x64\Release\ConsoleApplication1.pdb (Full PDB)
